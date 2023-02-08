@@ -22,7 +22,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  rest-client (~> 2.1)
+  rest-client
 
 RUBY VERSION
    ruby 3.2.0p0
